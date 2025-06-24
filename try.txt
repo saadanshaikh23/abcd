@@ -1,0 +1,2 @@
+git init is use to check the reposetory
+git add is use to add the files in git
